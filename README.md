@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 ## How To Contribute 
+
+### How To Contribute
+
+2014.Git.Training 
