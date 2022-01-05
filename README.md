@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 ## How To Contribute 
+Please fork this dir
 
 ### How To Contribute
 
