@@ -15,4 +15,4 @@ Please fork this dir
 
 ### How To Contribute
 
-2014.Git.Training 
+2014.Git.Training. All right reserved.
